@@ -1,2 +1,5 @@
-# sumitpanjwani.github.io
-Hello World
+# Author : Sumit Panjwani
+
+Descrition: Dashboard - Projects, Documents, Learnings
+
+
